@@ -2,4 +2,5 @@
 
 <p align= "center"> <img src="https://files.catbox.moe/7ickhm.gif" width= 500>
 
-<p align= "center"> rentry ata strawpage
+<p align= "center"> rentry ata [strawpage](https://nosocomephobia.straw.page/)
+[GitHub Pages](https://pages.github.com/)
