@@ -2,5 +2,4 @@
 
 <p align= "center"> <img src="https://files.catbox.moe/7ickhm.gif" width= 500>
 
-<p align= "center"> rentry ata [strawpage](https://nosocomephobia.straw.page/)
-[GitHub Pages](https://pages.github.com/)
+<p align= "center"> rentry <a href="https://clickforfreemoney.atabook.org">atabook</a> <a href="https://nosocomephobia.straw.page">strawpage</a>
