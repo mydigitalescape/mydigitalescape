@@ -1,4 +1,4 @@
-<p align= "center"> <img src="https://komarev.com/ghpvc/?username=FILTH-CO&color=grey&label="> </p>
+<p align= "center"> <img src="https://komarev.com/ghpvc/?username=FILTH-CO&color=CFD8B5&label="> </p>
 
 <p align= "center"> <img src="https://files.catbox.moe/7xpiz8.png" width= 250>
 
