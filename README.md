@@ -5,4 +5,4 @@
 
 <p align="center"
   
-[strawpage](https://viruspilledcomputer.straw.page)⠀⠀[ata](https://clickforfreemoney.atabook.org)⠀⠀[rentry](https://rentry.co/acrobatissm)
+[strawpage](https://viruspilledcomputer.straw.page)⠀[ata](https://clickforfreemoney.atabook.org)⠀[rentry](https://rentry.co/acrobatissm)
