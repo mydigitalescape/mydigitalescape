@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://files.catbox.moe/3urd52.png"> <img src="https://komarev.com/ghpvc/?username=FILTH-CO&color=940A58&label="> <img src="https://files.catbox.moe/qbvbab.png"> </p>
 <br/>
 <p align="center"> <a href="https://www.pinterest.com/pin/645140715408653158/"><img
-src="https://files.catbox.moe/6r8428.png" width="400" height="auto"></img></a>
+src="https://files.catbox.moe/8juwn3.png" width="400" height="auto"></img></a>
 </p>
 <p align="center"
   
