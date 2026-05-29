@@ -10,4 +10,4 @@ src="https://files.catbox.moe/6r8428.png" width="400" height="auto"></img></a>
   
 <p align="center"
   
-<sub> [I](https://doctorrchase.straw.page)⠀[II](https://rentry.co/patbatemann)⠀[III](https://clickforfreemoney.atabook.org) </sub>
+<sub> [I](https://doctorrchase.straw.page)⠀⠀[II](https://rentry.co/patbatemann)⠀⠀[III](https://clickforfreemoney.atabook.org) </sub>
