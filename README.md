@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://files.catbox.moe/3urd52.png"> <img src="https://komarev.com/ghpvc/?username=mydigitalescape&color=CC646D" width=100 height="auto"> <img src="https://files.catbox.moe/qbvbab.png"> </p>
+<p align="center"> <img src="https://files.catbox.moe/3urd52.png"> <img src="https://komarev.com/ghpvc/?username=mydigitalescape&color=CC646D" width="auto" height="auto"> <img src="https://files.catbox.moe/qbvbab.png"> </p>
 <br/>
 <p align="center"> <a href="https://x.com/imissdabi118/status/2061416232759468490/photo/1"><img
 src="https://files.catbox.moe/xk4q5f.png" width="500" height="auto"></img></a>
