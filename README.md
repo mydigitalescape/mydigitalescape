@@ -9,6 +9,6 @@
 
 <p align="center"
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&size=25&pause=800&color=8B3B78&width=484&lines=another+mans+evil+does+not+make+you+good.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&size=25&pause=800&color=93467F&width=484&lines=another+mans+evil+does+not+make+you+good.)](https://git.io/typing-svg)
 
 </div>
