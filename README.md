@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://files.catbox.moe/7zos2g.png" width="25" height="auto"> <img src="https://hits.sh/github.com/mydigitalescape.svg?style=flat-square&label=clients&extraCount=1000&color=FACCBF&labelColor=8F417C" width="90" height="auto"> <img src="https://files.catbox.moe/a2yphr.png" width="25" height="auto"> </p>
+<p align="center"> <img src="https://files.catbox.moe/7zos2g.png" width="25" height="auto"> <img src="https://hits.sh/github.com/mydigitalescape.svg?style=flat-square&label=clients&extraCount=0&color=FACCBF&labelColor=8F417C" width="90" height="auto"> <img src="https://files.catbox.moe/a2yphr.png" width="25" height="auto"> </p>
 <br/>
 <div align="center">
 
