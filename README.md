@@ -1,12 +1,14 @@
-<p align="center"> <img src="https://files.catbox.moe/3urd52.png"> <img src="https://hits.sh/github.com/mydigitalescape.svg?style=square&label=clients&extraCount=210&color=E9BCBC&labelColor=2E1E2A" width="85" height="auto"> <img src="https://files.catbox.moe/qbvbab.png"> </p>
+<p align="center"> <img src="https://files.catbox.moe/7zos2g.png" width="25" height="auto"> <img src="https://hits.sh/github.com/mydigitalescape.svg?style=flat-square&label=clients&extraCount=1000&color=FACCBF&labelColor=8F417C" width="90" height="auto"> <img src="https://files.catbox.moe/a2yphr.png" width="25" height="auto"> </p>
 <br/>
-<p align="center"> <a href="https://x.com/imissdabi118/status/2061416232759468490/photo/1"><img
-src="https://files.catbox.moe/m4pud1.png" width="450" height="auto"></img></a>
-</p>
+<div align="center">
+
+  | <img src= "https://files.catbox.moe/prpb2t.gif" width="375"> | <img src= "https://files.catbox.moe/lpmvv6.png" width="300"> <br/> <br/> <details><summary>ponytown rewards</summary><br>[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-medals](https://github.com/pt-medals) <br/> [@pt-fashion](https://github.com/pt-fashion) [@ponychievements](https://github.com/ponychievements) <br/> [@ponytown-nominations](https://github.com/ponytown-nominations) [@title-town](https://github.com/title-town) <br/> [@pt-nominations](https://github.com/pt-nominations) [@paw-town](https://github.com/paw-town) <br/> [@Ponytowns-rewards](https://github.com/Ponytowns-rewards)</details> <br/> <details><summary>directory</summary><br>[rentry](https://rentry.co/qnthony) [pronouns.cc](https://pronouns.cc/@nobodysfault) [新book](https://clickforfreemoney.atabook.org) [strawpage](https://doctorrchase.straw.page)</details> <br/> |
+| :---: | :---: |
+
+<br/>
+
 <p align="center"
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&weight=300&size=25&duration=1750&pause=1000&color=85587A&center=true&vCenter=true&width=450&height=40&lines=another+man's+evil+does+not+make+you+good.)](https://git.io/typing-svg)
-  
-<p align="center"
-  
-<sub> [I](https://doctorrchase.straw.page)⠀⠀[II](https://rentry.co/qnthony)⠀⠀[III](https://clickforfreemoney.atabook.org) </sub>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&size=25&pause=800&color=8B3B78&width=484&lines=another+mans+evil+does+not+make+you+good.)](https://git.io/typing-svg)
+
+</div>
