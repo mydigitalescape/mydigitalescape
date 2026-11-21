@@ -13,3 +13,8 @@
 
 
 </div>
+
+
+
+
+This is normal text and ${\color{red}this\ is\ red\ text}$.
