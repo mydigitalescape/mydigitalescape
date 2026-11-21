@@ -13,5 +13,3 @@
 
 
 </div>
-
-[$\color{red}{\text{Click here for red link}}$](https://github.com)
