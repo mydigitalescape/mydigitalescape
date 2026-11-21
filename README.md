@@ -13,5 +13,3 @@
 
 
 </div>
-
-Normal [c](https://github.com)${\color{red}\textsf{colored sans-serif text}}$ normal text
