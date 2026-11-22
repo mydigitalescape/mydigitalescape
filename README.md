@@ -1,3 +1,7 @@
+<p align= "center">
+  <sub>$\text{\color{gray}this is not made with light mode in mind}$</sub>
+</p>
+<br>
 <p align="center"> <img src="https://file.garden/asE5VerOW0QCN2OQ/ezgif.com-gif-maker%20111.gif" width= "25" height= "auto">⠀<img src="https://hits.sh/github.com/mydigitalescape.svg?style=flat-square&label=MIDGARDIANS&extraCount=0&color=F4F7C6&labelColor=3F280F" width="auto" height="auto">⠀<img src="https://file.garden/asE5VerOW0QCN2OQ/ezgif.com-gif-maker%2012.gif" width= "25" height= "auto"> </p>
 <div align="center">
 
