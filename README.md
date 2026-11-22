@@ -14,8 +14,8 @@
 
 
 </div>
-<br> <br>
+<br> <br> <br>
 <details>
   <summary></summary><h5 align="center">
-<img src= "https://file.garden/asE5VerOW0QCN2OQ/IMG_1761.gif"><br>me and <a href= "https://github.com/god-of-stories">loki</a>. yup yup yup
+<img src= "https://file.garden/asE5VerOW0QCN2OQ/IMG_1761.gif"><br>me and my <a href= "https://github.com/god-of-stories">brother</a>. yup yup yup
   </details>
