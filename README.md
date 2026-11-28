@@ -12,7 +12,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Griffy&size=25&pause=1000&color=F4F7C6&center=true&vCenter=true&width=750&lines=Hear+me%2C+Galactus!+I+am+Thor+the+Thunderer;son+of+Odin%2C+prince+of+Asgard%2C+but+today%2C+above+all+things;I+am+an+avenger%2C+and+this+world+is+under+my+protection!)](https://git.io/typing-svg)
 
-[decorate my tree](https://decomytree.net/t/Ammz77)! for the christmas season~~~
+<br> [decorate my tree](https://decomytree.net/t/Ammz77)! for the christmas season~~~
 </div>
 <br> <br> <br>
 <details>
